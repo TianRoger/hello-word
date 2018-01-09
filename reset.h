@@ -62,7 +62,7 @@
 #ifndef _RESET_H
 #define _RESET_H
 
-
+/* just test the process*/
 /*
  ***************************************************************************************************
  * Re-Export Section: include structural comp header if necessary (this should be an exception)
